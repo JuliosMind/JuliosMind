@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Julio
 Founder & CTO of [Virtual Agrigroculture](https://github.com/VirtualAgrigroculture)
+
 Website: https://virtualagrigroculture.com
 Substack: https://substack.com/@virtualagrigroculture
 
