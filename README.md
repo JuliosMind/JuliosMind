@@ -1,8 +1,10 @@
 # 👋 Hi, I'm Julio
-Founder & CTO of [Virtual Agrigroculture](https://github.com/VirtualAgrigroculture)
+Founder & CTO, CIO & CEO of [Virtual Agrigroculture](https://github.com/VirtualAgrigroculture)
 
 Website: https://virtualagrigroculture.com
 Substack: https://substack.com/@virtualagrigroculture
+
+
 
 🚀 Building the future of Blockchain, DeFi & Innovation  
 💡 Exploring modular cryptography and DAO governance  
