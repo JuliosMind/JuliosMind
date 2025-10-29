@@ -2,6 +2,7 @@
 Founder, CTO, CIO & CEO of [Virtual Agrigroculture](https://github.com/VirtualAgrigroculture)
 
 Website: https://virtualagrigroculture.com
+
 Substack: https://substack.com/@virtualagrigroculture
 
 
