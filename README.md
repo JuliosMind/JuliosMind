@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Julio
-Founder, CTO, CIO & CEO of [Virtual Agrigroculture](https://github.com/VirtualAgrigroculture)
+Founder, CTO, CIO & CEO of [Virtual Agrigroculture](https://github.com/JuliosMind/Bank-For-Global-Quantum-Settlements)
 
 Website: https://virtualagrigroculture.com
 
@@ -13,6 +13,6 @@ Substack: https://substack.com/@virtualagrigroculture
 
 
 - 💬 Ask me about ..?
-- 📫 How to reach me: julio234596@gmail.com
+- 📫 How to reach me: julio.chairman@bankforglobalquantumsettlements.com
 - ⚡ Fun fact: I am learning while doing 😂
 -->
