@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Julio
 Founder, CTO, CIO & CEO of [Bank for Global Quantum Settlements](https://github.com/JuliosMind/Bank-For-Global-Quantum-Settlements)
 
-Website: https://bankforglobalquantumsettlements.com
+Websites: https://bankforglobalquantumsettlements.com
+https://bankforglobalquantumsettlements.lu
+https://medvescekentreprises.com
 
 Substack: https://substack.com/@virtualagrigroculture
 
